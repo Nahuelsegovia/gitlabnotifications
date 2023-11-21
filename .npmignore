@@ -1,0 +1,5 @@
+src/
+README.md
+docker-compose.yml
+tsconfig.json
+node_modules/

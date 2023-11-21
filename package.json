@@ -1,0 +1,32 @@
+{
+  "name": "gitlabnotifications",
+  "version": "0.0.4",
+  "description": "A package to receive Gitlab notifications in Telegram, Discord or Slack",
+  "main": "build/index.js",
+  "dependencies": {
+    "@types/node": "^20.7.1",
+    "axios": "^1.5.1",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.19.3",
+    "@types/cors": "^2.8.16",
+    "@types/express": "^4.17.18"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nahuelsegovia/gitlabnotifications.git"
+  },
+  "keywords": [],
+  "author": "Nahuel Segovia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nahuelsegovia/gitlabnotifications/issues"
+  },
+  "homepage": "https://github.com/Nahuelsegovia/gitlabnotifications#readme"
+}
