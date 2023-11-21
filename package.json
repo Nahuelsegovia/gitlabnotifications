@@ -1,6 +1,6 @@
 {
   "name": "gitlabnotifications",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A package to receive Gitlab notifications in Telegram, Discord or Slack",
   "main": "build/index.js",
   "dependencies": {
