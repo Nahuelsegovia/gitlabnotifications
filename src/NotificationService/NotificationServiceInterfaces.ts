@@ -9,5 +9,8 @@ export interface SendNotificationsToInterface {
         channel_id: string;
         token: string;
       };
+      discord?:{
+        web_hook_url: string;
+      }
     }[];
   }
